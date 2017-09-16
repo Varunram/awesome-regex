@@ -82,8 +82,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Codecademy][d9] - How to use of regular expression
 - [Regex golf][d10] - Regex golf with Peter Norvig
 - [Python Regular Expressions][d11] - A good introduction to Python Regular Expressions from Google
-- [/Reg(exp){2}lained/: Demystifying Regular Expressions][d12] - Fluent 2012 talk reviewing and visualizing basic and intermediate Regular Expressions.
-- [Regular Expressions - Everything you should know][d13] - PDF Series
+- [/Reg(exp){2}lained/: Demystifying Regular Expressions][d12] - Fluent 2012 talk reviewing and visualizing basic and intermediate Regular Expressions
+- [Regular Expressions Everything you should know][d13] - PDF Series
 - [The Java Tutorials][d14] - Oracle Resources
 - [Regex Syntax Summary][d15] - Greenend Regex
 - [How Regexes work][d16] - Perl Plover Resource
