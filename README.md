@@ -93,13 +93,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Useful Regexes][d20] - Zendesk Regexes
 - [Teach Yourself Regular Expressions][d21] - Amazon regexes
 
-- [Regex golf][d12] - Regex golf with Peter Norvig
-- [Regex golf][d14] - Regex golf with Peter Norvig
-- [Regex golf][d15] - Regex golf with Peter Norvig
-- [Regex golf][d16] - Regex golf with Peter Norvig
-- [Regex golf][d17] - Regex golf with Peter Norvig
-- [Regex golf][d18] - Regex golf with Peter Norvig
-
 [d1]: http://en.wikipedia.org/wiki/Regular_expression
 [d2]: http://regex.learncodethehardway.org/book/
 [d3]: http://swtch.com/~rsc/regexp/regexp1.html
@@ -114,13 +107,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d12]: https://www.youtube.com/watch?v=EkluES9Rvak
 
 [d13]: http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1)
-[d12]: https://docs.oracle.com/javase/tutorial/essential/regex/resources.html
-[d12]: https://www.youtube.com/watch?v=EkluES9Rvak
-[d12]: https://www.youtube.com/watch?v=EkluES9Rvak
-[d12]: https://www.youtube.com/watch?v=EkluES9Rvak
-[d12]: https://www.youtube.com/watch?v=EkluES9Rvak
-[d12]: https://www.youtube.com/watch?v=EkluES9Rvak
 
+[d14]: https://docs.oracle.com/javase/tutorial/essential/regex/resources.html
 [d15]: http://www.greenend.org.uk/rjk/2002/06/regexp.html
 [d16]: http://perl.plover.com/Regex/
 [d17]: https://hackernoon.com/javascript-learn-regular-expressions-for-beginners-bb6107015d91
