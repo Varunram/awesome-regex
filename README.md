@@ -93,6 +93,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Useful Regexes][d20] - Zendesk Regexes
 - [Teach Yourself Regular Expressions][d21] - Amazon regexes
 
+- [Regex golf][d13] - Regex golf with Peter Norvig
+- [Regex golf][d14] - Regex golf with Peter Norvig
+- [Regex golf][d15] - Regex golf with Peter Norvig
+- [Regex golf][d16] - Regex golf with Peter Norvig
+- [Regex golf][d17] - Regex golf with Peter Norvig
+- [Regex golf][d18] - Regex golf with Peter Norvig
+
 [d1]: http://en.wikipedia.org/wiki/Regular_expression
 [d2]: http://regex.learncodethehardway.org/book/
 [d3]: http://swtch.com/~rsc/regexp/regexp1.html
