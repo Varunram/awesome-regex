@@ -82,16 +82,16 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Codecademy][d9] - How to use of regular expression
 - [Regex golf][d10] - Regex golf with Peter Norvig
 - [Python Regular Expressions][d11] - A good introduction to Python Regular Expressions from Google
-- [/Reg(exp){2}lained/: Demystifying Regular Expressions][d12] - Fluent 2012 talk reviewing and visualizing basic and intermediate Regular Expressions
-- [Regular Expressions Everything you should know][d13] - PDF Series
-- [The Java Tutorials][d14] - Oracle Resources
-- [Regex Syntax Summary][d15] - Greenend Regex
-- [How Regexes work][d16] - Perl Plover Resource
-- [Learn Regular Expressions for Beginners][d17] - 
-- [Java Regex- Tutorial][d18] - Vogella tutorial
+- [/Reg(exp){2}lained/: Demystifying Regular Expressions][d12] - Fluent 2012 talk reviewing and visualizing basic and intermediate Regular Expressions.
+- [Regular Expressions - Everything you should know][d13] - PDF Series
+- [The Java Tutorials][d14]
+- [Regex Syntax Summary][d15]
+- [How Regexes work][d16]
+- [Learn Regular Expressions for Beginners][d17]
+- [Java Regex- Tutorial][d18]
 - [Javascript.info - Regular expressions][d19] - Regular expressions section in The Modern JavaScript Tutorial
-- [Useful Regexes][d20] - Zendesk Regexes
-- [Teach Yourself Regular Expressions][d21] - Amazon regexes
+- [Useful Regexes][d20]
+- [Teach Yourself Regular Expressions][d21]
 
 [d1]: http://en.wikipedia.org/wiki/Regular_expression
 [d2]: http://regex.learncodethehardway.org/book/
@@ -114,7 +114,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d19]: https://javascript.info/regular-expressions
 [d20]: https://atrilsolutions.zendesk.com/hc/en-us/articles/205539861-Useful-regular-expressions
 [d21]: http://rads.stackoverflow.com/amzn/click/0672325667
-
 
 ## Library
 
