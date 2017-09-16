@@ -83,7 +83,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex golf][d10] - Regex golf with Peter Norvig
 - [Python Regular Expressions][d11] - A good introduction to Python Regular Expressions from Google
 - [/Reg(exp){2}lained/: Demystifying Regular Expressions][d12] - Fluent 2012 talk reviewing and visualizing basic and intermediate Regular Expressions
-- [Regular Expressions Everything you should know][d22] - PDF Series
+- [Regular Expressions Everything you should know][d13] - PDF Series
 - [The Java Tutorials][d14] - Oracle Resources
 - [Regex Syntax Summary][d15] - Greenend Regex
 - [How Regexes work][d16] - Perl Plover Resource
@@ -105,6 +105,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d10]: https://www.oreilly.com/learning/regex-golf-with-peter-norvig
 [d11]: https://developers.google.com/edu/python/regular-expressions
 [d12]: https://www.youtube.com/watch?v=EkluES9Rvak
+[d13]: http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1
 [d14]: https://docs.oracle.com/javase/tutorial/essential/regex/resources.html
 [d15]: http://www.greenend.org.uk/rjk/2002/06/regexp.html
 [d16]: http://perl.plover.com/Regex/
@@ -113,7 +114,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d19]: https://javascript.info/regular-expressions
 [d20]: https://atrilsolutions.zendesk.com/hc/en-us/articles/205539861-Useful-regular-expressions
 [d21]: http://rads.stackoverflow.com/amzn/click/0672325667
-[d22]: http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1)
 
 
 ## Library
